@@ -1,0 +1,74 @@
+body{
+
+   background-image: url("../img/siteBackground.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+
+}
+
+
+#topButtons{
+
+   text-align: right;
+
+}
+
+.AboutMe{
+
+  text-align: center;
+  color:white;
+
+}
+
+.projectBackground{
+
+  text-align: center;
+  background-color: #BFAFB2;
+
+}
+
+#contactMe{
+
+    text-align: center;
+
+}
+
+.projectDescription{
+
+  font-size: 22px;
+  text-align: left;
+
+}
+
+.buttonLink{
+
+  font-size: 19px;
+  color: white;
+  background-color: #9f7be1;
+
+}
+
+.carousel-indicators{
+
+  background-color: black;
+
+}
+
+#vishnuDawah{
+
+  font-size: 60px;
+
+}
+
+#projects{
+
+  font-size: 53px;
+  color:white;
+
+}
+
+.whiteText{
+
+  color: white;
+
+}
